@@ -215,7 +215,7 @@
 									<span class="text-uppercase d-block text-black-50" style="letter-spacing:10px; font-size: 18px">Con más de 25 años de experiencia</span>
 									<h2 class="mt-2 font-weight-semibold font-secondary" style="font-size: 45px; color: #1132c0; line-height: 1.3; letter-spacing: -2px;"><u>Prestación de Servicios Integrales de Limpieza General, Institucional, Comercial, Residencial e Industria</u></h2>
 									<h2 class="font-weight-bold mt-4">$200</h2>
-									<a href="#" data-animate="fadeInUp" data-delay="600" class="button button-circle button-white button-light button-large text-white mt-4 nott ls0" style="background-color: #E25B45">View Details</a>
+									<a href="#" data-animate="fadeInUp" data-delay="600" class="button button-circle button-white button-light button-large text-white mt-4 nott ls0" style="background-color: #1132c0;">Ver Detalles</a>
 								</div>
 							</div>
 
@@ -259,7 +259,7 @@
 Percibir un ambiente fresco y limpio, un local libre de polvo y una correcta higienización de las instalaciones, repercute en el incremento de la productividad de la empresa.
 </p>
 
-						<p class="bottommargin" style="font-size: 16px;"><a href="#" data-scrollto="#section-services" data-easing="easeInOutExpo" data-speed="1250" data-offset="70" class="more-link">Learn more <i class="icon-angle-right"></i></a></p>
+						<!--<p class="bottommargin" style="font-size: 16px;"><a href="#" data-scrollto="#section-services" data-easing="easeInOutExpo" data-speed="1250" data-offset="70" class="more-link">Learn more <i class="icon-angle-right"></i></a></p> -->
 
 						<div class="clear"></div>
 
@@ -274,7 +274,7 @@ Percibir un ambiente fresco y limpio, un local libre de polvo y una correcta hig
 					<div class="section m-0">
 						<div class="container clearfix">
 							<div class="mx-auto center" style="max-width: 900px;">
-								<h2 class="mb-0 font-weight-light ls1">We enjoy working on the Services &amp; Products we provide as much as you need them. This help us in delivering your Goals easily. Browse through the wide range of services we provide.</h2>
+							<h2 class="mx-auto bottommargin font-body" style="max-width: 700px; font-size: 40px;">Nuestros Servicios</h2>
 							</div>
 						</div>
 					</div>
@@ -350,11 +350,11 @@ Percibir un ambiente fresco y limpio, un local libre de polvo y una correcta hig
 
 					</div>
 
-					<div class="section dark m-0">
+				<!--	<div class="section dark m-0">
 						<div class="mx-auto center" style="max-width: 900px;">
 							<h2 class="mb-0 font-weight-light ls1">Like Our Services? Get an <a href="#" data-scrollto="#template-contactform" data-offset="140" data-easing="easeInOutExpo" data-speed="1250" class="button button-border button-circle button-light button-large my-0" style="position: relative; top: -3px;">Instant Quote</a></h2>
 						</div>
-					</div>
+					</div> -->
 
 				</div>
  
@@ -369,16 +369,13 @@ Percibir un ambiente fresco y limpio, un local libre de polvo y una correcta hig
 
 						<div id="oc-clients" class="owl-carousel topmargin image-carousel carousel-widget" data-margin="80" data-loop="true" data-nav="false" data-autoplay="5000" data-pagi="false" data-items-xs="2" data-items-sm="3" data-items-md="4" data-items-lg="5" data-items-xl="6">
 
-							<div class="oc-item"><a href="#"><img src="images/clients/1.png" alt="Clients"></a></div>
-							<div class="oc-item"><a href="#"><img src="images/clients/2.png" alt="Clients"></a></div>
-							<div class="oc-item"><a href="#"><img src="images/clients/3.png" alt="Clients"></a></div>
-							<div class="oc-item"><a href="#"><img src="images/clients/4.png" alt="Clients"></a></div>
-							<div class="oc-item"><a href="#"><img src="images/clients/5.png" alt="Clients"></a></div>
-							<div class="oc-item"><a href="#"><img src="images/clients/6.png" alt="Clients"></a></div>
-							<div class="oc-item"><a href="#"><img src="images/clients/7.png" alt="Clients"></a></div>
-							<div class="oc-item"><a href="#"><img src="images/clients/8.png" alt="Clients"></a></div>
-							<div class="oc-item"><a href="#"><img src="images/clients/9.png" alt="Clients"></a></div>
-							<div class="oc-item"><a href="#"><img src="images/clients/10.png" alt="Clients"></a></div>
+							<div class="oc-item"><a href="#"><img src="images/clients/1.jpg" alt="Clients"></a></div>
+							<div class="oc-item"><a href="#"><img src="images/clients/2.jpg" alt="Clients"></a></div>
+							<div class="oc-item"><a href="#"><img src="images/clients/3.jpg" alt="Clients"></a></div>
+							<div class="oc-item"><a href="#"><img src="images/clients/4.jpg" alt="Clients"></a></div>
+							<div class="oc-item"><a href="#"><img src="images/clients/5.jpg" alt="Clients"></a></div>
+							<div class="oc-item"><a href="#"><img src="images/clients/6.jpg" alt="Clients"></a></div>
+						
 
 						</div>
 
