@@ -26,6 +26,18 @@
 	<link rel="stylesheet" href="css/custom.css" type="text/css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<!-- Scripts para el boton de WhatsApp -->
+
+	<!--Jquery-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<!--Floating WhatsApp css-->
+<link rel="stylesheet" href="https://rawcdn.githack.com/rafaelbotazini/floating-whatsapp/3d18b26d5c7d430a1ab0b664f8ca6b69014aed68/floating-wpp.min.css">
+<!--Floating WhatsApp javascript-->
+<script type="text/javascript" src="https://rawcdn.githack.com/rafaelbotazini/floating-whatsapp/3d18b26d5c7d430a1ab0b664f8ca6b69014aed68/floating-wpp.min.js"></script>
+
+<!--  End -->
+
+
 	<!-- Document Title
 	============================================= -->
 	<title>Watch - One Page Module | Canvas</title>
@@ -281,67 +293,110 @@ Percibir un ambiente fresco y limpio, un local libre de polvo y una correcta hig
 
 					<div class="row align-items-stretch">
 
-						<div class="col-lg-4 d-none d-md-block" style="background: url('images/services/main-bg.jpg') center center no-repeat; background-size: cover;"></div>
-						<div class="col-lg-8">
+						<div class="col-lg-3 d-none d-md-block" style="background: url('images/services/main-bg.jpg') center center no-repeat; background-size: cover;"></div>
+						<div class="col-lg-9">
 							<div class="row align-items-stretch grid-border clearfix">
-								<div class="col-lg-4 col-md-6 col-padding">
+								<div class="col-lg-3 col-md-6 col-padding">
 									<div class="feature-box fbox-center fbox-dark fbox-plain">
 										<div class="fbox-icon">
-											<a href="#"><i class="icon-et-mobile op-gradient-icon"></i></a>
+											<a href="#"><img src="one-page/images/servicios/control-plagas.png" alt="Control de Plagas" /></a>
 										</div>
 										<div class="fbox-content fbox-content-sm">
-											<h3>Limpieza Profunda de Fin de Obras y Reformas</h3>
+											<h3>Control de Plagas</h3>
 										</div>
 									</div>
 								</div>
-								<div class="col-lg-4 col-md-6 col-padding">
+								<div class="col-lg-3 col-md-6 col-padding">
 									<div class="feature-box fbox-center fbox-dark fbox-plain">
 										<div class="fbox-icon">
-											<a href="#"><i class="icon-et-presentation op-gradient-icon"></i></a>
+											<a href="#"><img src="one-page/images/servicios/lavado-desinfeccion.png" alt="lavado desinfeccion" /></a>
 										</div>
 										<div class="fbox-content fbox-content-sm">
-											<h3>Limpieza Integral en:</h3>
-								<p>Edificios, Fábricas, Oficinas, Instituciones Educativas, Instituciones Financieras, Locales Comerciales</p>
+											<h3>Lavado y Desinfección en Áreas Contaminadas</h3>
+								
 										</div>
 									</div>
 								</div>
-								<div class="col-lg-4 col-md-6 col-padding">
+								<div class="col-lg-3 col-md-6 col-padding">
 									<div class="feature-box fbox-center fbox-dark fbox-plain">
 										<div class="fbox-icon">
-											<a href="#"><i class="icon-et-puzzle op-gradient-icon"></i></a>
+											<a href="#"><img src="one-page/images/servicios/limpieza-industrial.png" alt="Limpieza Industrial" /></a>
 										</div>
 										<div class="fbox-content fbox-content-sm">
-											<h3>Lavado y desinfección de alfombras, muebles y paneles</h3>
+											<h3>Limpieza Industrial</h3>
 										</div>
 									</div>
 								</div>
-								<div class="col-lg-4 col-md-6 col-padding">
+								<div class="col-lg-3 col-md-6 col-padding">
 									<div class="feature-box fbox-center fbox-dark fbox-plain">
 										<div class="fbox-icon">
-											<a href="#"><i class="icon-et-gears op-gradient-icon"></i></a>
+											<a href="#"><img src="one-page/images/servicios/limpieza-instituciones-financieras.png" alt="Limpieza de Instituciones Financieras" /></a>
 										</div>
 										<div class="fbox-content fbox-content-sm">
-											<h3>Lavado y desinfección de Cisternas</h3>
+											<h3>Limpieza de Instituciones Financieras</h3>
 										</div>
 									</div>
 								</div>
-								<div class="col-lg-4 col-md-6 col-padding">
+								<div class="col-lg-3 col-md-6 col-padding">
 									<div class="feature-box fbox-center fbox-dark fbox-plain">
 										<div class="fbox-icon">
-											<a href="#"><i class="icon-et-genius op-gradient-icon"></i></a>
+											<a href="#"><img src="one-page/images/servicios/limpieza-locales-comerciales.png" alt="Limpieza local comerciales" /></a>
 										</div>
 										<div class="fbox-content fbox-content-sm">
-											<h3>Pintura de interiores y exteriores</h3>
+											<h3>Limpieza locales comerciales</h3>
 										</div>
 									</div>
 								</div>
-								<div class="col-lg-4 col-md-6 col-padding">
+								<div class="col-lg-3 col-md-6 col-padding">
 									<div class="feature-box fbox-center fbox-dark fbox-plain">
 										<div class="fbox-icon">
-											<a href="#"><i class="icon-et-hotairballoon op-gradient-icon"></i></a>
+											<a href="#"><img src="one-page/images/servicios/limpieza-obras-reformas.png" alt="Limpieza obras y reformas" /></a>
+										</div>
+										<div class="fbox-content fbox-content-sm">
+											<h3>Limpieza obras y reformas</h3>
+										</div>
+									</div>
+								</div>
+
+								<div class="col-lg-3 col-md-6 col-padding">
+									<div class="feature-box fbox-center fbox-dark fbox-plain">
+										<div class="fbox-icon">
+											<a href="#"><img src="one-page/images/servicios/limpieza-locales-comerciales.png" alt="Limpieza local comerciales" /></a>
 										</div>
 										<div class="fbox-content fbox-content-sm">
 											<h3>Limpieza de vidrios externos y superficies de alucobond</h3>
+										</div>
+									</div>
+								</div>
+
+								<div class="col-lg-3 col-md-6 col-padding">
+									<div class="feature-box fbox-center fbox-dark fbox-plain">
+										<div class="fbox-icon">
+											<a href="#"><img src="one-page/images/servicios/limpieza-odorizacion-banos.png" alt="Limpieza y Odorización de baños" /></a>
+										</div>
+										<div class="fbox-content fbox-content-sm">
+											<h3>Limpieza y Odorización de baños</h3>
+										</div>
+									</div>
+								</div>
+
+								<div class="col-lg-3 col-md-6 col-padding">
+									<div class="feature-box fbox-center fbox-dark fbox-plain">
+										<div class="fbox-icon">
+											<a href="#"><img src="one-page/images/servicios/limpieza-residencial.png" alt="Limpieza residencial y edificios" /></a>
+										</div>
+										<div class="fbox-content fbox-content-sm">
+											<h3>Limpieza residencial y edificios</h3>
+										</div>
+									</div>
+								</div>
+								<div class="col-lg-3 col-md-6 col-padding">
+									<div class="feature-box fbox-center fbox-dark fbox-plain">
+										<div class="fbox-icon">
+											<a href="#"><img src="one-page/images/servicios/mantenimiento-areas-verdes.png" alt="Mantenimiento áreas verdes" /></a>
+										</div>
+										<div class="fbox-content fbox-content-sm">
+											<h3>Mantenimiento áreas verdes</h3>
 										</div>
 									</div>
 								</div>
@@ -385,6 +440,9 @@ Percibir un ambiente fresco y limpio, un local libre de polvo y una correcta hig
 
 				<div id="section-contacto" class="page-section pt-0">
 
+
+				<h2 class="text-center text-uppercase font-weight-light ls3 font-body">¿Dónde Estamos?</h2>
+
 					<div class="row mx-0 bottommargin-lg align-items-stretch">
 						<div class="col-lg-8 col-md-6 d-none d-md-block px-0">
 							<div class="gmap h-100" >
@@ -420,6 +478,8 @@ Percibir un ambiente fresco y limpio, un local libre de polvo y una correcta hig
 							<div class="form-widget">
 
 								<div class="form-result"></div>
+
+								<h2 class="text-center text-uppercase font-weight-light ls3 font-body">¡Contáctenos!</h2>
 
 								<form class="row mb-0" id="template-contactform" name="template-contactform" action="include/form.php" method="post">
 
@@ -487,75 +547,7 @@ Percibir un ambiente fresco y limpio, un local libre de polvo y una correcta hig
 		============================================= -->
 		<footer id="footer" class="dark border-0">
 
-			<!--<div class="container center">
-				<div class="footer-widgets-wrap">
-
-					<div class="row mx-auto clearfix">
-
-						<div class="col-lg-4">
-
-							<div class="widget clearfix">
-								<h4>Site Links</h4>
-
-								<ul class="list-unstyled footer-site-links mb-0">
-									<li><a href="#" data-scrollto="#wrapper" data-easing="easeInOutExpo" data-speed="1250" data-offset="70">Top</a></li>
-									<li><a href="#" data-scrollto="#section-about" data-easing="easeInOutExpo" data-speed="1250" data-offset="70">About</a></li>
-									<li><a href="#" data-scrollto="#section-works" data-easing="easeInOutExpo" data-speed="1250" data-offset="70">Works</a></li>
-									<li><a href="#" data-scrollto="#section-services" data-easing="easeInOutExpo" data-speed="1250" data-offset="70">Services</a></li>
-									<li><a href="#" data-scrollto="#section-blog" data-easing="easeInOutExpo" data-speed="1250" data-offset="70">Blog</a></li>
-									<li><a href="#" data-scrollto="#section-contact" data-easing="easeInOutExpo" data-speed="1250" data-offset="70">Contact</a></li>
-								</ul>
-							</div>
-
-						</div>
-
-						<div class="col-lg-4">
-
-							<div class="widget subscribe-widget clearfix" data-loader="button">
-								<h4>Subscribe</h4>
-
-								<div class="widget-subscribe-form-result"></div>
-								<form id="widget-subscribe-form" action="include/subscribe.php" method="post" class="mb-0">
-									<input type="email" id="widget-subscribe-form-email" name="widget-subscribe-form-email" class="form-control form-control-lg not-dark required email" placeholder="Your Email Address">
-									<button class="button button-border button-circle button-light topmargin-sm" type="submit">Subscribe Now</button>
-								</form>
-							</div>
-
-						</div>
-
-						<div class="col-lg-4">
-
-							<div class="widget clearfix">
-								<h4>Contact</h4>
-
-								<p class="lead">795 Folsom Ave, Suite 600<br>San Francisco, CA 94107</p>
-
-								<div class="center topmargin-sm">
-									<a href="#" class="social-icon inline-block border-0 si-small si-facebook" title="Facebook">
-										<i class="icon-facebook"></i>
-										<i class="icon-facebook"></i>
-									</a>
-									<a href="#" class="social-icon inline-block border-0 si-small si-twitter" title="Twitter">
-										<i class="icon-twitter"></i>
-										<i class="icon-twitter"></i>
-									</a>
-									<a href="#" class="social-icon inline-block border-0 si-small si-github" title="Github">
-										<i class="icon-github"></i>
-										<i class="icon-github"></i>
-									</a>
-									<a href="#" class="social-icon inline-block border-0 si-small si-pinterest" title="Pinterest">
-										<i class="icon-pinterest"></i>
-										<i class="icon-pinterest"></i>
-									</a>
-								</div>
-							</div>
-
-						</div>
-
-					</div>
-
-				</div>
-			</div>-->
+		
 
 			<div id="copyrights">
 				<div class="container center clearfix">
@@ -571,9 +563,35 @@ Percibir un ambiente fresco y limpio, un local libre de polvo y una correcta hig
 	============================================= -->
 	<div id="gotoTop" class="icon-angle-up"></div>
 
+
+
+<!--Div where the WhatsApp will be rendered-->
+<div id="WAButton"></div>
+
+<script>
+
+/*  Script for WhatsApp Button */
+
+$(function() {
+  $('#WAButton').floatingWhatsApp({
+    phone: '1231231231', //WhatsApp Business phone number International format-
+    //Get it with Toky at https://toky.co/en/features/whatsapp.
+    headerTitle: '¡Encantados en atenderle!', //Popup Title
+    popupMessage: '¿Hola, en qué podemos ayudarte?', //Popup Message
+    showPopup: true, //Enables popup display
+    buttonImage: '<img src="https://rawcdn.githack.com/rafaelbotazini/floating-whatsapp/3d18b26d5c7d430a1ab0b664f8ca6b69014aed68/whatsapp.svg" />', //Button Image
+    //headerColor: 'crimson', //Custom header color
+    //backgroundColor: 'crimson', //Custom background button color
+    position: "left"    
+  });
+});
+
+</script>
+
+
 	<!-- External JavaScripts
-	============================================= -->
-	<script src="js/jquery.js"></script>
+	============================================= 
+	<script src="js/jquery.js"></script>-->
 
 	<!-- Footer Scripts
 	============================================= -->
