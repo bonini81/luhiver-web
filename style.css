@@ -181,7 +181,7 @@ h3,
 h4,
 h5,
 h6 {
-	color: #444;
+	color: #1132c0;
 	font-weight: 600;
 	line-height: 1.5;
 	margin: 0 0 30px 0;
@@ -8285,7 +8285,7 @@ body:not(.device-touch) .button {
 }
 
 .button.button-light {
-	background-color: #EEE;
+	background-color: #1132c0;
 	color: #333;
 	text-shadow: none !important;
 }
@@ -8385,8 +8385,8 @@ body:not(.device-touch) .button {
 
 .button.button-border {
 	border: 2px solid #444;
-	background-color: transparent;
-	color: #333;
+	background-color: #1132c0;
+	color: #fff;
 	font-weight: 700;
 	text-shadow: none;
 }
@@ -15953,7 +15953,26 @@ label.checkbox { padding-left: 20px; }
 /* Styles from coder Andres Dominguez Bonini aka @bonini81 - 8 Junio 2020 */
 
 
+.page-section {
+
+		padding: 60px 0px !important;
+
+}
+
+.flip-card-back::after, .flip-card-front::after {
+opacity: 0 !important;
+	/* Safari 1.x (pre WebKit!) */
+	-khtml-opacity: 0 !important;
+	filter: alpha(opacity=0);  /* Opacity for IE8 and lower */
+}
 
 
+
+
+.floating-wpp {
+
+	z-index: 5 !important;
+	
+}
 
 /* END styles @bonini81 */

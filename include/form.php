@@ -27,8 +27,8 @@ require 'phpmailer/src/SMTP.php';
 $toemails = array();
 
 $toemails[] = array(
-				'email' => 'your-email@website.com', // Your Email Address
-				'name' => 'Your Name' // Your Name
+				'email' => 'pugle81@gmail.com', // Your Email Address
+				'name' => 'Luhiver' // Your Name
 			);
 
 
@@ -37,8 +37,8 @@ $toemails[] = array(
 ---------------------------------------------------*/
 
 $fromemail = array(
-				'email' => 'no-reply@website.com', // Company's Email Address (preferably currently used Domain Name)
-				'name' => 'Company Name' // Company Name
+				'email' => 'info@luviher.com/', // Company's Email Address (preferably currently used Domain Name)
+				'name' => 'Luhiver' // Company Name
 			);
 
 
@@ -67,8 +67,8 @@ $mail = new PHPMailer();
 ---------------------------------------------------*/
 
 $message = array(
-	'success'			=> 'We have <strong>successfully</strong> received your Message and will get Back to you as soon as possible.',
-	'error'				=> 'Email <strong>could not</strong> be sent due to some Unexpected Error. Please Try Again later.',
+	'success'			=> 'Hemos <strong>recibido</strong>  su mensaje, nos contactaremos lo más pronto posible.',
+	'error'				=> 'Email <strong>no recibido</strong> por un error inesperado. Intente otra vez más tarde.',
 	'error_bot'			=> 'Bot Detected! Form could not be processed! Please Try Again!',
 	'error_unexpected'	=> 'An <strong>unexpected error</strong> occured. Please Try Again later.',
 	'recaptcha_invalid'	=> 'Captcha not Validated! Please Try Again!',

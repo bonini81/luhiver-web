@@ -29,7 +29,7 @@
 <!-- Scripts para el boton de WhatsApp -->
 
 	<!--Jquery-->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 <!--Floating WhatsApp css-->
 <link rel="stylesheet" href="https://rawcdn.githack.com/rafaelbotazini/floating-whatsapp/3d18b26d5c7d430a1ab0b664f8ca6b69014aed68/floating-wpp.min.css">
 <!--Floating WhatsApp javascript-->
@@ -40,7 +40,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Watch - One Page Module | Canvas</title>
+	<title>Luviher</title>
 
 	<style>
 		.font-secondary { font-family: 'IBM Plex Serif', serif !important; }
@@ -59,7 +59,7 @@
 			justify-content: center;
 		}
 
-		#oc-watch .owl-dots { bottom: 20px; }
+		#oc-watch .owl-dots { bottom: -15px; }
 
 		#oc-watch .owl-dots { counter-reset: dots; }
 
@@ -154,7 +154,7 @@
 
 </head>
 
-<body class="stretched side-push-panel">
+<body class="stretched side-push-panel template-contactform-complete template-contactform-error">
 
 	<div class="body-overlay"></div>
 
@@ -225,20 +225,21 @@
 							<div class="col-md-6 text-center text-md-left">
 								<div class="emphasis-title mb-0">
 									<span class="text-uppercase d-block text-black-50" style="letter-spacing:10px; font-size: 18px">Con más de 25 años de experiencia</span>
-									<h2 class="mt-2 font-weight-semibold font-secondary" style="font-size: 45px; color: #1132c0; line-height: 1.3; letter-spacing: -2px;"><u>Prestación de Servicios Integrales de Limpieza General, Institucional, Comercial, Residencial e Industria</u></h2>
-									<h2 class="font-weight-bold mt-4">$200</h2>
-									<a href="#" data-animate="fadeInUp" data-delay="600" class="button button-circle button-white button-light button-large text-white mt-4 nott ls0" style="background-color: #1132c0;">Ver Detalles</a>
+									<h2 class="mt-2 font-weight-semibold font-body" style="font-size: 45px; color: #1132c0; line-height: 1.3; letter-spacing: -2px;">Prestación de Servicios Integrales de Limpieza General, Institucional, Comercial, Residencial e Industrial</h2>
+								
+									
 								</div>
 							</div>
 
 							<div class="col-md-6">
 								<div id="oc-watch" class="owl-carousel carousel-widget" data-margin="0" data-nav="false" data-pagi="true" data-items="1" data-autoplay="5000" data-speed="1000" data-loop="true">
 									<img src="one-page/images/page/watch-2.png" alt="Watch" data-bg="#EEE">
-									<img src="one-page/images/page/watch-3.png" alt="Watch" data-bg="#daec66">
-									<img src="one-page/images/page/watch-1.png" alt="Watch" data-bg="#F1D4CA">
+									<img src="one-page/images/page/watch-3.png" alt="Watch" data-bg="#d7d5d5">
+									<img src="one-page/images/page/watch-1.png" alt="Watch" data-bg="#b9b2b2">
+									
 								</div>
 
-								<div id="oc-watch-bg" style="background: #1132c0; width: 360px; height: 360px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); opacity: 1; border-radius: 50%;"></div>
+							
 							</div>
 						</div>
 
@@ -281,28 +282,29 @@ Percibir un ambiente fresco y limpio, un local libre de polvo y una correcta hig
 				</div>
 
 
-				<div id="section-services" class="page-section pt-0">
+				<div id="section-services" class="pt-0">
 
-					<div class="section m-0">
-						<div class="container clearfix">
-							<div class="mx-auto center" style="max-width: 900px;">
-							<h2 class="mx-auto bottommargin font-body" style="max-width: 700px; font-size: 40px;">Nuestros Servicios</h2>
-							</div>
-						</div>
-					</div>
+				
+						
+							<h2 class="mx-auto bottommargin font-body" style="text-align: center; font-size: 40px;">Nuestros Servicios</h2>
+
+						
+				
 
 					<div class="row align-items-stretch">
 
-						<div class="col-lg-3 d-none d-md-block" style="background: url('images/services/main-bg.jpg') center center no-repeat; background-size: cover;"></div>
-						<div class="col-lg-9">
+							<div class="col-lg-12">
 							<div class="row align-items-stretch grid-border clearfix">
 								<div class="col-lg-3 col-md-6 col-padding">
-									<div class="feature-box fbox-center fbox-dark fbox-plain">
+
+
+					 <div class="feature-box fbox-center fbox-dark fbox-plain">
 										<div class="fbox-icon">
 											<a href="#"><img src="one-page/images/servicios/control-plagas.png" alt="Control de Plagas" /></a>
 										</div>
 										<div class="fbox-content fbox-content-sm">
 											<h3>Control de Plagas</h3>
+											<p>Alias cum repellat velit. Alias cum repellat velit. Alias cum repellat velit.</p>
 										</div>
 									</div>
 								</div>
@@ -412,10 +414,62 @@ Percibir un ambiente fresco y limpio, un local libre de polvo y una correcta hig
 					</div> -->
 
 				</div>
+
+<!-- Start Flipcart -->
+
+
+<section id="content">
+			<div class="content-wrap">
+				<div class="container clearfix">
+
+					<div class="row grid-container" data-layout="masonry" style="overflow: visible">
+						<div class="col-lg-4 mb-4">
+							<div class="flip-card text-center">
+								<div class="flip-card-front dark" style="background-color: #f5f8fa !important;">
+									<div class="flip-card-inner">
+										<div class="card bg-transparent border-0 text-center">
+											<div class="card-body">
+											<div >
+											<a href="#"><img src="one-page/images/servicios/control-plagas.png" alt="Control de Plagas" /></a>
+										</div><br/>
+												<h3 class="card-title" style="color: #000;">CONTROL DE PLAGAS</h3>
+							
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="flip-card-back bg-danger no-after" style="background-image: url('images/services/16.jpg');">
+									<div class="flip-card-inner">
+										<p class="mb-2 text-white">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias cum repellat velit. Alias cum repellat velit. Alias cum repellat velit.</p>
+									<!--	<button type="button" class="btn btn-outline-light mt-2">View Details</button> -->
+									</div>
+								</div>
+							</div>
+						</div>
+
+				
+
+
+					
+
+					
+					</div>
+
+			
+				
+
+				</div>
+			</div>
+		</section><!-- #content end -->
+
+
+
+<!-- End Flipcart -->
+
  
 				<div id="section-clientes" class="page-section">
 
-					<h2 class="text-center text-uppercase font-weight-light ls3 font-body">Nuestros Clientes</h2>
+				<h2 class="mx-auto bottommargin font-body" style="text-align: center; font-size: 40px;">Nuestros Clientes</h2>
 
 				
 				
@@ -441,7 +495,7 @@ Percibir un ambiente fresco y limpio, un local libre de polvo y una correcta hig
 				<div id="section-contacto" class="page-section pt-0">
 
 
-				<h2 class="text-center text-uppercase font-weight-light ls3 font-body">¿Dónde Estamos?</h2>
+				<h2 class="mx-auto bottommargin font-body" style=" text-align: center; font-size: 40px;">¿Dónde Estamos?</h2>
 
 					<div class="row mx-0 bottommargin-lg align-items-stretch">
 						<div class="col-lg-8 col-md-6 d-none d-md-block px-0">
@@ -451,7 +505,7 @@ Percibir un ambiente fresco y limpio, un local libre de polvo y una correcta hig
 						</div>
 						<div class="col-lg-4 col-md-6" style="background-color: #F5F5F5;">
 							<div class="col-padding">
-								<h3 class="font-body font-weight-normal ls1">Contactos</h3>
+							<h3 class="font-body font-weight-normal ls1">Datos de Contacto</h3>
 
 								<div style="font-size: 16px; line-height: 1.7;">
 									<address style="line-height: 1.7;">
@@ -479,7 +533,7 @@ Percibir un ambiente fresco y limpio, un local libre de polvo y una correcta hig
 
 								<div class="form-result"></div>
 
-								<h2 class="text-center text-uppercase font-weight-light ls3 font-body">¡Contáctenos!</h2>
+								<h2 class="mx-auto bottommargin font-body" style="text-align: center; font-size: 40px;">Contáctenos</h2>
 
 								<form class="row mb-0" id="template-contactform" name="template-contactform" action="include/form.php" method="post">
 
@@ -574,7 +628,7 @@ Percibir un ambiente fresco y limpio, un local libre de polvo y una correcta hig
 
 $(function() {
   $('#WAButton').floatingWhatsApp({
-    phone: '1231231231', //WhatsApp Business phone number International format-
+    phone: '593999739206', //WhatsApp Business phone number International format-
     //Get it with Toky at https://toky.co/en/features/whatsapp.
     headerTitle: '¡Encantados en atenderle!', //Popup Title
     popupMessage: '¿Hola, en qué podemos ayudarte?', //Popup Message
