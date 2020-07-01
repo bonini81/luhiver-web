@@ -423,7 +423,7 @@ Percibir un ambiente fresco y limpio, un local libre de polvo y una correcta hig
 				<div class="container clearfix">
 
 					<div class="row grid-container" data-layout="masonry" style="overflow: visible">
-						<div class="col-lg-4 mb-4">
+						<div class="col-lg-3 mb-3">
 							<div class="flip-card text-center">
 								<div class="flip-card-front dark" style="background-color: #f5f8fa !important;">
 									<div class="flip-card-inner">
@@ -446,6 +446,230 @@ Percibir un ambiente fresco y limpio, un local libre de polvo y una correcta hig
 								</div>
 							</div>
 						</div>
+
+						<div class="col-lg-3 mb-3">
+							<div class="flip-card text-center">
+								<div class="flip-card-front dark" style="background-color: #f5f8fa !important;">
+									<div class="flip-card-inner">
+										<div class="card bg-transparent border-0 text-center">
+											<div class="card-body">
+											<div >
+											<a href="#"><img src="one-page/images/servicios/lavado-desinfeccion.png" alt="Control de Plagas" /></a>
+										</div><br/>
+												<h3 class="card-title" style="color: #000;">Lavado y Desinfección en Áreas Contaminadas</h3>
+							
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="flip-card-back bg-danger no-after" style="background-image: url('images/services/16.jpg');">
+									<div class="flip-card-inner">
+										<p class="mb-2 text-white">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias cum repellat velit. Alias cum repellat velit. Alias cum repellat velit.</p>
+									<!--	<button type="button" class="btn btn-outline-light mt-2">View Details</button> -->
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+						<div class="col-lg-3 mb-3">
+							<div class="flip-card text-center">
+								<div class="flip-card-front dark" style="background-color: #f5f8fa !important;">
+									<div class="flip-card-inner">
+										<div class="card bg-transparent border-0 text-center">
+											<div class="card-body">
+											<div >
+											<a href="#"><img src="one-page/images/servicios/limpieza-industrial.png" alt="Control de Plagas" /></a>
+										</div><br/>
+												<h3 class="card-title" style="color: #000;">Limpieza Industrial</h3>
+							
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="flip-card-back bg-danger no-after" style="background-image: url('images/services/16.jpg');">
+									<div class="flip-card-inner">
+										<p class="mb-2 text-white">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias cum repellat velit. Alias cum repellat velit. Alias cum repellat velit.</p>
+									<!--	<button type="button" class="btn btn-outline-light mt-2">View Details</button> -->
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-lg-3 mb-3">
+							<div class="flip-card text-center">
+								<div class="flip-card-front dark" style="background-color: #f5f8fa !important;">
+									<div class="flip-card-inner">
+										<div class="card bg-transparent border-0 text-center">
+											<div class="card-body">
+											<div >
+											<a href="#"><img src="one-page/images/servicios/limpieza-instituciones-financieras.png" alt="Limpieza de Instituciones Financieras" /></a>
+										</div><br/>
+												<h3 class="card-title" style="color: #000;">Limpieza de Instituciones Financieras</h3>
+							
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="flip-card-back bg-danger no-after" style="background-image: url('images/services/16.jpg');">
+									<div class="flip-card-inner">
+										<p class="mb-2 text-white">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias cum repellat velit. Alias cum repellat velit. Alias cum repellat velit.</p>
+									<!--	<button type="button" class="btn btn-outline-light mt-2">View Details</button> -->
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+						<div class="col-lg-3 mb-3">
+							<div class="flip-card text-center">
+								<div class="flip-card-front dark" style="background-color: #f5f8fa !important;">
+									<div class="flip-card-inner">
+										<div class="card bg-transparent border-0 text-center">
+											<div class="card-body">
+											<div >
+											<a href="#"><img src="one-page/images/servicios/limpieza-locales-comerciales.png" alt="Limpieza local comerciales" /></a>
+										</div><br/>
+												<h3 class="card-title" style="color: #000;">Limpieza locales comerciales</h3>
+							
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="flip-card-back bg-danger no-after" style="background-image: url('images/services/16.jpg');">
+									<div class="flip-card-inner">
+										<p class="mb-2 text-white">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias cum repellat velit. Alias cum repellat velit. Alias cum repellat velit.</p>
+									<!--	<button type="button" class="btn btn-outline-light mt-2">View Details</button> -->
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+						<div class="col-lg-3 mb-3">
+							<div class="flip-card text-center">
+								<div class="flip-card-front dark" style="background-color: #f5f8fa !important;">
+									<div class="flip-card-inner">
+										<div class="card bg-transparent border-0 text-center">
+											<div class="card-body">
+											<div >
+											<a href="#"><img src="one-page/images/servicios/limpieza-obras-reformas.png" alt="Limpieza obras y reformas" /></a>
+										</div><br/>
+												<h3 class="card-title" style="color: #000;">Limpieza obras y reformas</h3>
+							
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="flip-card-back bg-danger no-after" style="background-image: url('images/services/16.jpg');">
+									<div class="flip-card-inner">
+										<p class="mb-2 text-white">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias cum repellat velit. Alias cum repellat velit. Alias cum repellat velit.</p>
+									<!--	<button type="button" class="btn btn-outline-light mt-2">View Details</button> -->
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+						<div class="col-lg-3 mb-3">
+							<div class="flip-card text-center">
+								<div class="flip-card-front dark" style="background-color: #f5f8fa !important;">
+									<div class="flip-card-inner">
+										<div class="card bg-transparent border-0 text-center">
+											<div class="card-body">
+											<div >
+											<a href="#"><img src="one-page/images/servicios/limpieza-locales-comerciales.png" alt="Limpieza local comerciales" /></a>
+										</div><br/>
+												<h3 class="card-title" style="color: #000;">Limpieza de vidrios externos y superficies de alucobond</h3>
+							
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="flip-card-back bg-danger no-after" style="background-image: url('images/services/16.jpg');">
+									<div class="flip-card-inner">
+										<p class="mb-2 text-white">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias cum repellat velit. Alias cum repellat velit. Alias cum repellat velit.</p>
+									<!--	<button type="button" class="btn btn-outline-light mt-2">View Details</button> -->
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+						<div class="col-lg-3 mb-3">
+							<div class="flip-card text-center">
+								<div class="flip-card-front dark" style="background-color: #f5f8fa !important;">
+									<div class="flip-card-inner">
+										<div class="card bg-transparent border-0 text-center">
+											<div class="card-body">
+											<div >
+											<a href="#"><img src="one-page/images/servicios/limpieza-odorizacion-banos.png" alt="Limpieza y Odorización de baños" /></a>
+										</div><br/>
+												<h3 class="card-title" style="color: #000;">Limpieza y Odorización de baños</h3>
+							
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="flip-card-back bg-danger no-after" style="background-image: url('images/services/16.jpg');">
+									<div class="flip-card-inner">
+										<p class="mb-2 text-white">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias cum repellat velit. Alias cum repellat velit. Alias cum repellat velit.</p>
+									<!--	<button type="button" class="btn btn-outline-light mt-2">View Details</button> -->
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-lg-3 mb-3">
+							<div class="flip-card text-center">
+								<div class="flip-card-front dark" style="background-color: #f5f8fa !important;">
+									<div class="flip-card-inner">
+										<div class="card bg-transparent border-0 text-center">
+											<div class="card-body">
+											<div >
+											<a href="#"><img src="one-page/images/servicios/limpieza-residencial.png" alt="Limpieza residencial y edificios" /></a>
+										</div><br/>
+												<h3 class="card-title" style="color: #000;">Limpieza residencial y edificios</h3>
+							
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="flip-card-back bg-danger no-after" style="background-image: url('images/services/16.jpg');">
+									<div class="flip-card-inner">
+										<p class="mb-2 text-white">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias cum repellat velit. Alias cum repellat velit. Alias cum repellat velit.</p>
+									<!--	<button type="button" class="btn btn-outline-light mt-2">View Details</button> -->
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+						<div class="col-lg-3 mb-3">
+							<div class="flip-card text-center">
+								<div class="flip-card-front dark" style="background-color: #f5f8fa !important;">
+									<div class="flip-card-inner">
+										<div class="card bg-transparent border-0 text-center">
+											<div class="card-body">
+											<div >
+											<a href="#"><img src="one-page/images/servicios/mantenimiento-areas-verdes.png" alt="Mantenimiento áreas verdes" /></a>
+										</div><br/>
+												<h3 class="card-title" style="color: #000;">Mantenimiento áreas verdes</h3>
+							
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="flip-card-back bg-danger no-after" style="background-image: url('images/services/16.jpg');">
+									<div class="flip-card-inner">
+										<p class="mb-2 text-white">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias cum repellat velit. Alias cum repellat velit. Alias cum repellat velit.</p>
+									<!--	<button type="button" class="btn btn-outline-light mt-2">View Details</button> -->
+									</div>
+								</div>
+							</div>
+						</div>
+
+						
 
 				
 
